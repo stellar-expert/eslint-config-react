@@ -2,7 +2,7 @@ module.exports = {
     extends: [
         'plugin:react/recommended',
         'plugin:react-hooks/recommended',
-        "@stellar-expert/conventions-js"
+        "@stellar-expert/eslint-config-js"
     ],
     parserOptions: {
         ecmaFeatures: {
