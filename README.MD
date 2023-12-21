@@ -1,13 +1,13 @@
 # @stellar-expert/eslint-config-react
 
-Basic StellarExpert ESLint conventions for React web apps 
+> Basic StellarExpert ESLint conventions for React web apps 
 
 ## Usage
 
 1. Install package
 
     ```
-    npm i -D github:stellar-expert/eslint-config-react
+    npm i -D @stellar-expert/eslint-config-react
     ```
 
 2. Create `.eslintrc.js` file in the project root
